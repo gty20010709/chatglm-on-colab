@@ -6,5 +6,5 @@
 
 # 在 Colab 中打开 notebook
 
-- [ChatGLM-6B-int4](https://colab.research.google.com/github/gty20010709/chatglm-on-colab/blob/main/chatglm-on-colab.ipynb)
-- [ChatGLM2-6B-int4](https://colab.research.google.com/github/gty20010709/chatglm2-on-colab/blob/main/chatglm-on-colab.ipynb)
+- ChatGLM-6B-int4 ： [![open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gty20010709/chatglm-on-colab/blob/main/chatglm-on-colab.ipynb)
+- ChatGLM2-6B-int4 ： [![open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gty20010709/chatglm2-on-colab/blob/main/chatglm-on-colab.ipynb)
